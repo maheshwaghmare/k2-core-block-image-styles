@@ -1,0 +1,6 @@
+.git
+.distignore
+.gitignore
+phpcs.xml.dist
+README.md
+screenshot.png
