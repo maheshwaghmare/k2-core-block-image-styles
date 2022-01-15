@@ -4,3 +4,6 @@
 phpcs.xml.dist
 README.md
 screenshot.png
+vendor
+composer.json
+composer.lock

@@ -1,0 +1,14 @@
+{
+    "name": "maheshwaghmare/k2-core-block-image-styles",
+    "description": "This plugin adds a new image styles for the WordPress Core Image block.",
+    "require-dev": {
+      "dealerdirect/phpcodesniffer-composer-installer": "0.7.1",
+      "phpcompatibility/phpcompatibility-wp": "*",
+      "wp-coding-standards/wpcs": "dev-master"
+    },
+    "scripts": {
+      "phpcs": "./vendor/bin/phpcs",
+      "phpcbf": "./vendor/bin/phpcbf"
+    }
+  }
+  
